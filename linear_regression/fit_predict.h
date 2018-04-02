@@ -1,0 +1,1 @@
+void FitPredict(char *filename, double y_preds ,int n_observations, double (*functions[])(double), int n_functions);
